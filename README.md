@@ -11,7 +11,7 @@ const dsas = {
 ```
 
 ### Writing
-📝 I occasionally write on [deansas.org](deansas.org):
+📝 I occasionally write on [deansas.org](https://deansas.org):
 <!-- BLOG-POST-LIST:START -->
 - [Reading 2021](https://deansas.org/2022/01/02/reading-2021/)
 - [Being hired at Automattic](https://deansas.org/2022/01/02/being-hired-at-automattic/)
