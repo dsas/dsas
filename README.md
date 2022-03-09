@@ -10,6 +10,11 @@
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
+- [Reading 2021](https://deansas.org/2022/01/02/reading-2021/)
+- [Being hired at Automattic](https://deansas.org/2022/01/02/being-hired-at-automattic/)
+- [Reading 2020](https://deansas.org/2020/12/31/reading-2020/)
+- [RIP Strats](https://deansas.org/2020/05/30/rip-strats/)
+- [Weeknotes: 11th May to 17th May](https://deansas.org/2020/05/17/weeknotes-s01e06/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
