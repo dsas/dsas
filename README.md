@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently writing **Javascript** using **React** and **Gutenberg**
 - 📝 I occasionally write articles on [deansas.org](deansas.org)
-- 📫 How to reach me **dean@deansas.org**
-- Pronouns: He/him
+- 📫 You can reach me at **dean@deansas.org**
+- 👨 Pronouns: He/him
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
