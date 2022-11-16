@@ -6,7 +6,7 @@ const dsas = {
   contact: "dean@deansas.org",
   pronouns: [ "He", "Him" ],
   preferredTech: [ "React", "Javascript", "PHP", "PostgreSQL", "Linux" ],
-  currentFocus: "Gutenberg payment blocks for Jetpack and WordPress.com",
+  currentFocus: "The WordPress.com theme experience",
 };
 ```
 
