@@ -13,11 +13,11 @@ const dsas = {
 ### Writing
 📝 I occasionally write on [deansas.org](https://deansas.org):
 <!-- BLOG-POST-LIST:START -->
+- [Reading 2022](https://deansas.org/2022/12/31/reading-2022/)
 - [Migrating from Roam to Obsidian](https://deansas.org/2022/12/30/migrating-from-roam-to-obsidian/)
 - [Published on WordPress developer news](https://deansas.org/2022/12/14/published-on-wordpress-developer-news/)
 - [Reading 2021](https://deansas.org/2022/01/02/reading-2021/)
 - [Being hired at Automattic](https://deansas.org/2022/01/02/being-hired-at-automattic/)
-- [Reading 2020](https://deansas.org/2020/12/31/reading-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats
